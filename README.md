@@ -3,6 +3,6 @@
 para copiar o código em HTML
 ```
 <html>
-     <hl>Meu primeiro arquivo HTML.</hl>
+     <h1>Meu primeiro arquivo HTML.</h1>
  </html>
  ```
